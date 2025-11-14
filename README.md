@@ -9,8 +9,7 @@ I’m currently building a portfolio of **real-world security projects** to show
 
 - 🌱 Currently learning: **SIEM analysis, PowerShell scripting, and network defense**
 - 🧰 Background in: **Windows Server, Active Directory, and IT support**
-- 🎯 Goal: Land a **Security Analyst / Junior Sysadmin** role by Fall 2025
-- ❤️ I love my family, my girlfriend, and solving problems that make systems safer.
+- 🎯 Goal: Land a **Security Analyst / Junior Sysadmin** role
 
 ---
 
@@ -55,9 +54,9 @@ I’m currently building a portfolio of **real-world security projects** to show
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn]([(https://www.linkedin.com/in/joshua-stanford-510293337/)])
+- 💼 [LinkedIn](https://www.linkedin.com/in/joshua-stanford-510293337/)
 - ✉️ [Email Me](mailto:jstanford.secm@proton.me)
-- 💻 [GitHub Projects]([https://github.com/JoshuaStanfordSec?tab=repositories](https://github.com/joshuastanford-security?tab=repositories))
+- 💻 [GitHub Projects](https://github.com/JoshuaStanfordSec?tab=repositories)
 
 ---
 
